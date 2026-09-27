@@ -51,6 +51,10 @@ Then run *update* or *update_all* as usual.
 - [Arcade-GingaNin_MiSTer](https://github.com/kuzearcade/Arcade-GingaNin_MiSTer) —
   Ginga Ninkyouden (Jaleco, 1987): one bitstream covering both sets, the
   parent and one alternative.
+- [Arcade-NamcoSystem2_MiSTer](https://github.com/kuzearcade/Arcade-NamcoSystem2_MiSTer) —
+  Namco System 2 (1987-1993): five bitstreams (STD, MH, SG, SZ, LW) covering
+  61 sets, 28 parents and 33 alternatives. The driving and light-gun games
+  run their attract but await their analog controls.
 
 ## How it is built
 
@@ -106,6 +110,10 @@ The `.rbf` files keep the names their repository publishes, such as
 core name and the same name with an `Arcade-` prefix, and accepts a `_` or `.`
 after it, so the dated release name resolves
 (`Main_MiSTer/support/arcade/mra_loader.cpp`).
+
+Because a `_` may follow, no core's `<rbf>` name may be a prefix of another
+core's: `<rbf>NamcoS2</rbf>` would also match `Arcade-NamcoS2_SZ_…`. That is
+why Namco System 2's standard bitstream is `NamcoS2_STD`.
 
 ## Licence
 
