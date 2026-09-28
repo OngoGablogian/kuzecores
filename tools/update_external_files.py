@@ -78,7 +78,7 @@ CORES = [
     {
         'repo': 'kuzearcade/Arcade-GingaNin_MiSTer',
         'branch': 'main',
-        'commit': '24cdb917776970b317bbccbaf643058919d6c61d',
+        'commit': 'fa1e370c169b840f7401cd9edd6bb0c39748ea6b',
         'source': 'releases/',
     },    {
         'repo': 'kuzearcade/Arcade-NamcoSystem2_MiSTer',
