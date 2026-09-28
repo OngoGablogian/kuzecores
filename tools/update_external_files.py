@@ -49,7 +49,7 @@ CORES = [
     {
         'repo': 'kuzearcade/Arcade-NMK16_MiSTer',
         'branch': 'master',
-        'commit': '4c463a42e7d1c6e69ce252bf079c2d67b371e487',
+        'commit': 'f6a87669d941128643f814c2e75fd6cc717dbf4a',
         'source': 'releases/',
     },
     {
