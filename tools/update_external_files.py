@@ -83,7 +83,7 @@ CORES = [
     },    {
         'repo': 'kuzearcade/Arcade-NamcoSystem2_MiSTer',
         'branch': 'main',
-        'commit': 'b8c07b0b64ff906fc3ae2689febc9bb2ba70789d',
+        'commit': '188d9752e572f3d0480f4f3a062cf8e0a4d89342',
         'source': 'releases/',
     },
 ]
