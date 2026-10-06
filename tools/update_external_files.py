@@ -55,7 +55,7 @@ CORES = [
     {
         'repo': 'kuzearcade/Arcade-SandScrp_MiSTer',
         'branch': 'main',
-        'commit': 'fc83d6f9da2a690eaceb982bb7de014f34256c6e',
+        'commit': 'd717cafd6f8f9639394788ab34eb4b37e9e7ece9',
         'source': 'releases/',
     },
     {
@@ -72,13 +72,13 @@ CORES = [
     },    {
         'repo': 'kuzearcade/Arcade-NMKBP964_MiSTer',
         'branch': 'main',
-        'commit': 'a6d0d5e41aa1428efa54eaf491acfabb412825aa',
+        'commit': 'a29878da1c3cbd73ebaaa8e8775576b7a08960ce',
         'source': 'releases/',
     },
     {
         'repo': 'kuzearcade/Arcade-GingaNin_MiSTer',
         'branch': 'main',
-        'commit': 'fa1e370c169b840f7401cd9edd6bb0c39748ea6b',
+        'commit': '758d3aef0526dd8df1337e84eb4ddd9336504e7a',
         'source': 'releases/',
     },    {
         'repo': 'kuzearcade/Arcade-NamcoSystem2_MiSTer',
