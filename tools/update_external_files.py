@@ -72,7 +72,7 @@ CORES = [
     },    {
         'repo': 'kuzearcade/Arcade-NMKBP964_MiSTer',
         'branch': 'main',
-        'commit': '90f795f621eb7fe2ac3d9a56a6079def9ca49eb9',
+        'commit': 'b02b9f75fae1452af1d6800e4b4b2aa20a444e22',
         'source': 'releases/',
     },
     {
