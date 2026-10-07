@@ -49,41 +49,41 @@ CORES = [
     {
         'repo': 'kuzearcade/Arcade-NMK16_MiSTer',
         'branch': 'master',
-        'commit': 'f66776abbc162a280b7c5f738a31273a655ca331',
+        'commit': '333a97c30eca3b918dc16cab39c286d261b3789f',
         'source': 'releases/',
     },
     {
         'repo': 'kuzearcade/Arcade-SandScrp_MiSTer',
         'branch': 'main',
-        'commit': '82d9cdc8fd9f8c33e41588272e2fb8f4525bb905',
+        'commit': 'd3ca399ce4cc20c68b70a4b6bbfb0e01b1fa5ac0',
         'source': 'releases/',
     },
     {
         'repo': 'kuzearcade/Arcade-JalecoMS1BCD_MiSTer',
         'branch': 'main',
-        'commit': '2ebeb0ef0956115404aa8287497b003406e685bb',
+        'commit': '8c7a3b01e17894ae31e19a3a89e5443a6cbe550a',
         'source': 'releases/',
     },
     {
         'repo': 'kuzearcade/Arcade-JalecoMS1Z_MiSTer',
         'branch': 'main',
-        'commit': '5e70167bed75f3d389c194c7a0a9ff9e3f098d46',
+        'commit': '24226d7e65110a387b3e62db4d67aadc3162bc4c',
         'source': 'releases/',
     },    {
         'repo': 'kuzearcade/Arcade-NMKBP964_MiSTer',
         'branch': 'main',
-        'commit': '78a1e12b5447f7450632ddc394b8b5fc0f719fe0',
+        'commit': '90f795f621eb7fe2ac3d9a56a6079def9ca49eb9',
         'source': 'releases/',
     },
     {
         'repo': 'kuzearcade/Arcade-GingaNin_MiSTer',
         'branch': 'main',
-        'commit': '60df6a7121acd159166a00a9a1c5a169fed4ce55',
+        'commit': '1dc66adbf7e705e0aa7c78086dff75c3a41221a8',
         'source': 'releases/',
     },    {
         'repo': 'kuzearcade/Arcade-NamcoSystem2_MiSTer',
         'branch': 'main',
-        'commit': '56a3e47a37cabc2212365588aaaf75452956eea5',
+        'commit': '5fe71a594fa9ec4462acf04248f7f6abb0f64ba7',
         'source': 'releases/',
     },
 ]
